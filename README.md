@@ -1,7 +1,7 @@
 ##Tutorial for creating a back-end that handles the submission of personalized flu reports through the FluTrack android app
 Download a web server solution stack package e.g. XAMPP. In the location in which you have installed it create a folder and put there all the .php files from this repository.
 
-Open the phpmyadmin and create a new database. In the SQL input write the following query:
+Open the phpmyadmin and create a new database named flutrack. In the SQL input write the following query:
 
 ```
 CREATE TABLE reports(
