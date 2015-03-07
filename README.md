@@ -7,4 +7,4 @@ From your browser open the phpmyadmin and create a database named flutrack. Sele
 
 ```
 
-Make sure that your SQL query **is exactly the same** with this one. If you wish to make any changes (e.g. remove or add table columns) you must update the android source code accordingly, otherwise the app will always crash on startup.
+Make sure that your SQL query **is exactly the same** with this one. If you wish to make any changes (e.g. remove or add table columns) you must update the android source code accordingly, otherwise the app **will always crash** on startup.
