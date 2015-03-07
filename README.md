@@ -1,4 +1,4 @@
-##Creating a back-end for submitting personalized flu reports through the FluTrack android app
+##Tutorial for creating a back-end that handles the submittion of personalized flu reports through the FluTrack android app
 Download a  web server solution stack package e.g. XAMPP. In the location in which you have installed it create a folder and put there all the .php files from this repository.
 
 From your browser open the phpmyadmin and create a database named flutrack. Select the newly created database and in the SQL tab put the following code.
